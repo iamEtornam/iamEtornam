@@ -7,7 +7,7 @@ Heya, I'm Etornam Sunu Bright. I'm a Software Engineer who loves building mobile
 
 :rocket: DevOps
 
-:man_teacher_medium_skin_tone: Tech speaker
+👨🏽‍🏫 Tech speaker
 
 :video_camera: Youtuber
 
