@@ -1,4 +1,4 @@
-# Etornam Sunu Bright :technologist_medium_skin_tone::blush:
+# Etornam Sunu Bright 🧑🏽‍💻:blush:
 Heya, I'm Etornam Sunu Bright. I'm a Software Engineer who loves building mobile and backend services. 
 
 :iphone: Making apps for mobile (Android, IOS, Flutter)
