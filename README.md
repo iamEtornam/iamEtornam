@@ -13,13 +13,13 @@ Ask me anything about...
 Reach out to me at...
 
 <a href="https://twitter.com/_iamEtornam">
-  <img align="left" alt="Etornam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Etornam's Twitter" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" />
 </a><a href="https://bit.ly/3iyxOl8">
-  <img align="left" alt="Etornam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Etornam's Linkdein" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" />
 </a><a href="https://www.youtube.com/channel/UCjqJVNiIVMr2fFplaisHe1w">
   <img align="left" alt="Etornam's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a><a href="https://bit.ly/2NVdwV1">
-  <img align="left" alt="Etornam's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Etornam's Facebook" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-original.svg" />
 </a>
 <br/>
 <br/>
