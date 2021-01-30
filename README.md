@@ -34,11 +34,11 @@ Reach out to me at...
 <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tools and Frameworks
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
