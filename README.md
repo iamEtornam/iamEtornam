@@ -13,13 +13,13 @@ Ask me anything about...
 Reach out to me at...
 
 <a href="https://twitter.com/_iamEtornam">
-  <img align="left" alt="Etornam's Twitter" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" />
+  <img align="left" alt="Etornam's Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
 </a><a href="https://bit.ly/3iyxOl8">
-  <img align="left" alt="Etornam's Linkdein" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="Etornam's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a><a href="https://www.youtube.com/channel/UCjqJVNiIVMr2fFplaisHe1w">
   <img align="left" alt="Etornam's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a><a href="https://bit.ly/2NVdwV1">
-  <img align="left" alt="Etornam's Facebook" width="22px" src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-original.svg" />
+  <img align="left" alt="Etornam's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
 </a>
 <br/>
 <br/>
@@ -27,11 +27,11 @@ Reach out to me at...
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tools and Frameworks
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,8 +39,8 @@ Reach out to me at...
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 <br/>
@@ -49,9 +49,9 @@ Reach out to me at...
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegNex&theme=light&hide_langs_below=1" />
 </a>
 
-- 🔭 I’m currently working on Serverless
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Mobile Project
+- 🔭 I’m currently working with Serverless
+- 🌱 I’m currently learning Go and Swift
+- 👯 I’m looking to collaborate on Mobile and Backend Projects
 - 🤔 I’m looking for help with my open source projects
-- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
+- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books,general discussions
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev)
