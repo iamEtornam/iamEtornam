@@ -55,3 +55,7 @@ Reach out to me at...
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books,general discussions
 - 📫 How to reach me at [info@etornam.dev](mailto:info@etornam.dev)
+
+#### Spotify  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31byuiysnx23q3oci6gilepvzn5m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
