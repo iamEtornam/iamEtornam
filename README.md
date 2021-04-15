@@ -23,9 +23,9 @@ Reach out to me at...
 </a>
 <br/>
 <br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=RegNex" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=RegNex&theme=dracula" />
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=dracula"/>
 
 #### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +53,7 @@ Reach out to me at...
 <br/>
 
 <a href="https://github.com/RegNex">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegNex&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegNex&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" />
 </a>
 
 - 🔭 I’m currently working with Serverless
