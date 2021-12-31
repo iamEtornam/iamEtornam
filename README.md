@@ -22,7 +22,10 @@ Reach out to me at...
   <img align="left" alt="Etornam's Facebook" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" />
 </a>
 <br/>
+<!-- <p></p>
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RegNex&theme=dracula"/> -->
 <br/>
+<p></p>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RegNex&theme=dracula" />
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
