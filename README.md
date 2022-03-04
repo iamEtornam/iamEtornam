@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Etornam Sunu Bright!](https://etornam.dev) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=RegNex&label=Views&color=blue&style=plastic" alt="RegNex" /> </a>
+## Hey, I'm [Etornam Sunu Bright!](https://etornam.dev) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Views&color=blue&style=plastic" alt="iamEtornam" /> </a>
 
 I'm a Software Engineer who loves building mobile and backend services & discussing new product ideas from Ghana.
 <br/>
@@ -23,12 +23,12 @@ Reach out to me at...
 </a>
 <br/>
 <!-- <p></p>
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RegNex&theme=dracula"/> -->
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamEtornam&theme=dracula"/> -->
 <br/>
 <p></p>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=RegNex&theme=dracula" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamEtornam&theme=dracula" />
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RegNex&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamEtornam&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 
 <br/>
 
@@ -58,8 +58,8 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/RegNex">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegNex&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+<a href="https://github.com/iamEtornam">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamEtornam&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 </a>
 
 - 🔭 I’m currently working with Serverless
