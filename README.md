@@ -10,7 +10,7 @@ A results-oriented software Engineer specialised in developing efficient and ent
 * 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
 * ✉️  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
 * 🚀  I'm currently working on [Tasky - (open source)](http://github.com/iamEtornam/Tasky-Mobile-App)
-* 🧠  I'm learning SwiftUI and Rust
+* 🧠  I'm learning Android again and Devops
 * 🤝  I'm open to collaborating on any interesting project
 
 <a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img
