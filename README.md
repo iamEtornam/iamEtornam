@@ -10,7 +10,7 @@ I am a goal-driven software engineer who specializes in creating high-performanc
 * 💼  Building [Sources Technologies LLC](https://sourcestechnologies.com)
 * 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
 * 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
-* 🚀  I'm currently working on [Tasky - (open source)](http://github.com/iamEtornam/Tasky-Mobile-App)
+* 🚀  I'm currently working on [WayRide - ride hailing platform](https://wayride.bilalengineering.org/)
 * 🧠  I'm learning Android again and Devops
 * 🤝  I'm open to collaborating on any interesting project
 
