@@ -4,11 +4,12 @@ Hi 👋 My name is Etornam Sunu Bright
 Mobile & Backend Engineer
 -------------------------
 
-A results-oriented software Engineer specialised in developing efficient and enterprise-level mobile apps and backend services. Worked on 12+ user-friendly and fully functional applications for Android and IOS. I have experience with different stacks; from Dart to JavaScript to Typescript to PHP to Swift to Java & Kotlin and some little Go, Rust and Ruby.
+I am a goal-driven software engineer who specializes in creating high-performance mobile applications and backend services for businesses. Throughout my career, I have successfully developed over a dozen fully functional and user-friendly apps for both Android and IOS platforms. My experience spans across various technology stacks, including Dart, JavaScript, Typescript, PHP, Swift, Java, Kotlin, and I also have some familiarity with Go, Rust, and Ruby.
 
 * 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
-* ✉️  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
+* 💼  Building [Sources Technologies LLC](https://sourcestechnologies.com)
+* 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
+* 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
 * 🚀  I'm currently working on [Tasky - (open source)](http://github.com/iamEtornam/Tasky-Mobile-App)
 * 🧠  I'm learning Android again and Devops
 * 🤝  I'm open to collaborating on any interesting project
