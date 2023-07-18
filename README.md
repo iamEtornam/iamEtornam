@@ -19,7 +19,8 @@ I am a goal-driven software engineer who specializes in creating high-performanc
 src="https://img.shields.io/twitter/follow/_iamEtornam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamEtornam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![wakatime](https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg)](https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4)
+<a href="https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4" target="_blank" rel="noreferrer"><img
+src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/></a>
 </p>
 
 
