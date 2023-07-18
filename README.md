@@ -4,7 +4,7 @@ Hi 👋 My name is Etornam Sunu Bright
 Mobile & Backend Engineer
 -------------------------
 
-I am a goal-driven software engineer who specializes in creating high-performance mobile applications and backend services for businesses. Throughout my career, I have successfully developed over a dozen fully functional and user-friendly apps for both Android and IOS platforms. My experience spans across various technology stacks, including Dart, JavaScript, Typescript, PHP, Swift, Java, Kotlin, and I also have some familiarity with Go, Rust, and Ruby.
+I am a goal-driven software engineer who specializes in creating high-performance mobile applications and backend services for businesses and individuals. Throughout my career, I have successfully developed over a dozen fully functional and user-friendly apps for both Android and IOS platforms. My experience spans various technology stacks, including Dart, JavaScript, Typescript, PHP, Swift, Java, and Kotlin, and I also have some familiarity with Go, Rust, and Ruby.
 
 * 🌍  I'm based in Accra, Ghana
 * 💼  Building [Sources Technologies LLC](https://sourcestechnologies.com)
@@ -14,10 +14,14 @@ I am a goal-driven software engineer who specializes in creating high-performanc
 * 🧠  I'm learning Android again and Devops
 * 🤝  I'm open to collaborating on any interesting project
 
+<p align="left">
 <a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_iamEtornam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamEtornam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![wakatime](https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg)](https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4)
+</p>
+
 
 ### Skills
 
@@ -46,8 +50,10 @@ src="https://img.shields.io/github/followers/iamEtornam?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-<a href="https://www.dev.to/_iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/imEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/etornam-sunu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@etornam-sunu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4571266/etornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.dev.to/_iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/imEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@iamEtornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/etornam-sunu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/iametornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@etornam-sunu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/4571266/etornam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
