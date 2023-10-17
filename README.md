@@ -74,7 +74,3 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/iamEtornam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-#### Listen to what i'm listening to on Spotify 🤗 🙂
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31byuiysnx23q3oci6gilepvzn5m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
