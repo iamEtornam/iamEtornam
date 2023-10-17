@@ -10,8 +10,8 @@ I am a goal-driven software engineer who specializes in creating high-performanc
 * 💼  Building [Sources Technologies LLC](https://sourcestechnologies.com)
 * 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
 * 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
-* 🚀  I'm currently working on [WayRide - ride hailing platform](https://wayride.bilalengineering.org/)
-* 🧠  I'm learning Android again and Devops
+* 🚀  I'm currently working on Zen - An AI-powered therapy app
+* 🧠  I'm learning Jetpack compose
 * 🤝  I'm open to collaborating on any interesting project
 
 <p align="left">
