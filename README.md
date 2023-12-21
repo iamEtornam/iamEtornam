@@ -7,21 +7,26 @@ Mobile & Backend Engineer
 I am a goal-driven software engineer who specializes in creating high-performance mobile applications and backend services for businesses and individuals. Throughout my career, I have successfully developed over a dozen fully functional and user-friendly apps for both Android and IOS platforms. My experience spans various technology stacks, including Dart, JavaScript, Typescript, PHP, Swift, Java, and Kotlin, and I also have some familiarity with Go, Rust, and Ruby.
 
 * 🌍  I'm based in Accra, Ghana
-* 💼  Building [Sources Technologies LLC](https://sourcestechnologies.com)
 * 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
 * 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
 * 🚀  I'm currently working on Zen - An AI-powered therapy app
-* 🧠  I'm learning Jetpack compose
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on any interesting project
 
 <p align="left">
 <a href="https://www.twitter.com/_iamEtornam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_iamEtornam?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
+/></a>
+    <a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamEtornam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4" target="_blank" rel="noreferrer"><img
-src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/></a>
 </p>
+
+<p>
+    <a href="https://wakatime.com/@7b10be81-8ebd-4223-abbb-5f0b918e7fd4" target="_blank" rel="noreferrer"><img
+src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/></a>
+  <a><img src="https://komarev.com/ghpvc/?username=iamEtornam&label=Profile%20views&color=0e75b6&style=flat" alt="iamEtornam" /></a>
+</p>
+
 
 
 ### Skills
@@ -37,15 +42,10 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
 
