@@ -6,10 +6,10 @@ Mobile & Backend Engineer
 
 I am a goal-driven software engineer who specializes in creating high-performance mobile applications and backend services for businesses and individuals. Throughout my career, I have successfully developed over a dozen fully functional and user-friendly apps for both Android and IOS platforms. My experience spans various technology stacks, including Dart, JavaScript, Typescript, PHP, Swift, Java, and Kotlin, and I also have some familiarity with Go, Rust, and Ruby.
 
-* 🌍  I'm based in Accra, Ghana
+* 🌍  I'm currently based in Accra, Ghana
 * 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
 * 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
-* 🚀  I'm currently working on Zen - An AI-powered therapy app
+* 🚀  I'm currently working on [News Assistant](https://github.com/iamEtornam/News-Assistant) - an AI powered news app that summarizes and translate to any language
 * 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on any interesting project
 
