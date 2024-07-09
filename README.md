@@ -65,7 +65,7 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 <a href="http://www.github.com/iamEtornam"><img src="https://github-readme-stats.vercel.app/api?username=iamEtornam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamEtornam's GitHub stats" /></a>
 
-<a href="http://www.github.com/iamEtornam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamEtornam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/iamEtornam"><img src="https://streak-stats.demolab.com?user=iamEtornam&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/iamEtornam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamEtornam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
