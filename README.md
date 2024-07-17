@@ -9,8 +9,8 @@ I am a goal-driven software engineer who specializes in creating high-performanc
 * 🌍  I'm currently based in Accra, Ghana
 * 🖥️  See my portfolio at [etornam.dev](http://etornam.dev)
 * 📧  You can contact me at [info@etornam.dev](mailto:info@etornam.dev)
-* 🚀  I'm currently working on [News Assistant](https://github.com/iamEtornam/News-Assistant) - an AI powered news app that summarizes and translate to any language
-* 🧠  I'm learning Rust
+* 🚀  I'm currently working on [Prayer Partner](https://prayerpartner.site) - an AI powered app that helps you learn and understand the word of God.
+* 🧠  I'm learning Rust && LLMs
 * 🤝  I'm open to collaborating on any interesting project
 
 <p align="left">
